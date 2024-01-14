@@ -68,7 +68,8 @@ Here are examples of HTTP requests for interacting with the Azure Function App. 
 
 curl --location 'https://func3-smb-sfda-dev.azurewebsites.net/api/sm\_azure\_query?code=PeCw2qwxEiyjLDJZ8LnVbX5V5jd5yVmSA\_cNn0IvlJr3AzFu4KYzYA%3D%3D&Account\_Id=0013000001HFpNSAA1'
 
-![Alt text](SM_archival.jpg)
+![SM_archival](https://github.com/Ajay-sai-CB/SM_DEV_CODE_2in1/assets/140703765/9be9d281-2515-4021-862e-ab4a7d3ebabf)
+
 
 **Description:**
 
@@ -87,7 +88,8 @@ curl --location 'https://func3-smb-sfda-dev.azurewebsites.net/api/sm\_azure\_que
 **Description:**
 
 - Executes count and data queries for the specified **Object\_Name** ( **Service\_Work\_Order\_\_c** ).
-![Alt text](SM_archival_Main.jpg)
+![SM_archival_Main](https://github.com/Ajay-sai-CB/SM_DEV_CODE_2in1/assets/140703765/18045064-c4c1-49b2-bc2d-af523661df1b)
+
 
 
 #### Request 3: Detailed Query with Date Range and Pagination
